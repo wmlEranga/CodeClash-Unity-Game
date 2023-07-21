@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 447641dcffd3f884d8d22d2a6fd98085
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSource: {instanceID: 0}
+  - SFXSource: {instanceID: 0}
+  - menuSound: {fileID: 8300000, guid: 46853a4d98db02b4d9119d14a02f74de, type: 3}
+  - creditSound: {fileID: 8300000, guid: 292ecabbc64a6724c9c500a3e6612791, type: 3}
+  - L1Sound: {fileID: 8300000, guid: 0efd647b3327b0d4a92cbe2c7bb82515, type: 3}
+  - L2Sound: {fileID: 8300000, guid: 58ffb2990b4ccb3438fc88023660e51c, type: 3}
+  - L3Sound: {fileID: 8300000, guid: fd44b355869271f438cfd89652245e04, type: 3}
+  - Level: {fileID: 8300000, guid: 92fb3519523ca4e43b20e6ff08d24fa4, type: 3}
+  - winSound: {fileID: 8300000, guid: a669ff826cf653d4983869a7d3608e46, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
