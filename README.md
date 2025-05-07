@@ -38,7 +38,7 @@ CodeClash is an interactive educational game designed to teach programming conce
 
 1. Clone the repository
    ```
-   git clone https://github.com/wmlEranga/CodeClash-Unity-Game
+   git clone https://github.com/wmlEranga/CodeClash-Unity-Game.git
    ```
 2. Open the project in Unity Hub
 3. Install any required dependencies through the Package Manager
